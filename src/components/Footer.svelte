@@ -10,35 +10,35 @@
             <p class="font-bold poppins text-base sm:text-lg">
                 Support
             </p>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">Contact Us</a>
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">Contact Us</a>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">
                 Research
             </p>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">Read the science</a>
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">Read the science</a>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">
                 Follow Us
             </p>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-instagram pr-2"></i>
                 Instagram
             </a>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-youtube pr-2"></i>
                 Youtube
             </a>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-facebook pr-2"></i>
                 Facebook
             </a>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-twitter pr-2"></i>
                 Twitter
             </a>
-            <a href="" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="/" target="blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-tiktok pr-2"></i>
                 TikTok
             </a>
